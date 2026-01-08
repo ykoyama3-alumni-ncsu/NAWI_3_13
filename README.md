@@ -7,6 +7,7 @@ Research dept data request-- 30 min frequency, some WQ data
 RO data--includes specific flux and other ops params on daily freqeuncy
 Grab WQ data--monthly/weekly WQ data
 
-## getting started
+## Getting started
 Activate the virtual environment:
 .venv\Scripts\Activate.bat (windows)
+Run the 
