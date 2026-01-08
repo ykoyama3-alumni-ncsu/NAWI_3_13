@@ -1,7 +1,11 @@
 # NAWI 3.13
 Goal is to quantify and model RO fouling predictively
 
-Available raw data includes:
+##Available raw data includes:
 Research dept data request-- 30 min frequency, some WQ data
 RO data--includes specific flux and other ops params on daily freqeuncy
 Grab WQ data--monthly/weekly WQ data
+
+## getting started
+Activate the virtual environment:
+.venv\Scripts\Activate.bat (windows)
