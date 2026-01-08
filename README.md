@@ -9,5 +9,6 @@ Grab WQ data--monthly/weekly WQ data
 
 ## Getting started
 Activate the virtual environment:
+<br>
 .venv\Scripts\Activate.bat (windows)
-Run the 
+Run the Test_env.ipynb to check virtual environment is set up. 
